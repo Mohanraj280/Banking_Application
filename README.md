@@ -84,7 +84,7 @@ initial_balance
 dob
 id_proof
 account_no
-password (hashed)
+password 
 Transactions
 
 id (Primary Key)
